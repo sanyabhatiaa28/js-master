@@ -21,4 +21,4 @@ charAt(),concat(),indexOf(),endswith() etc etc.
 
 //console.log(namee[1]); //print a as it is on idx1
 // console.log(namee.__proto__); //ye string ke sare methods dikhayega. as it is a string object.
-
+// lot of methods are there for string.
